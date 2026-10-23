@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://florerialaserena.dondeseria.com/sitemap.xml
